@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376688360858",
+    "project_id": "e4-sn-empatica",
+    "storage_bucket": "e4-sn-empatica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376688360858:android:4bd3f1e90a5596e4514e23",
+        "android_client_info": {
+          "package_name": "com.empatica.e4companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnoCvz-7TweYR3Wy2NwdR12V79qwP5nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
